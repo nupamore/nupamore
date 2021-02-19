@@ -1,6 +1,1 @@
-<a href="https://github.com/nupamore">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nupamore&show_icons=true&include_all_commits=true&count_private=true" />
-</a>
-<a href="https://github.com/nupamore?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nupamore&layout=compact&langs_count=9&hide=html" />
-</a>
+![Metrics](https://metrics.lecoq.io/nupamore?template=classic&base.activity=0&base.community=0&base.metadata=0&languages=1&isocalendar=1&followup=1&isocalendar.duration=half-year&languages.ignored=html%2Ccss&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FSeoul&config.animated=true)
