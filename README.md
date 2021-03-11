@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/nupamore?template=classic&base.activity=0&base.community=0&base.metadata=0&languages=1&isocalendar=1&followup=1&isocalendar.duration=half-year&languages.ignored=html%2Ccss&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FSeoul&config.animated=true)
+![Metrics](https://github.com/nupamore/nupamore/blob/master/github-metrics.svg)
