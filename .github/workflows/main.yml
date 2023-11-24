@@ -30,3 +30,6 @@ jobs:
           plugin_languages_colors: github
           plugin_languages_ignored: html, css
           plugin_languages_threshold: 0%
+          plugin_notable: yes
+          plugin_notable_indepth: yes
+          plugin_notable_repositories: yes
