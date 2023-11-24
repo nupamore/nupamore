@@ -33,3 +33,5 @@ jobs:
           plugin_notable: yes
           plugin_notable_indepth: yes
           plugin_notable_repositories: yes
+          plugin_contributors: yes
+          plugin_contributors_contributions: yes
