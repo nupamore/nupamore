@@ -31,7 +31,7 @@ jobs:
           plugin_languages_ignored: html, css
           plugin_languages_threshold: 0%
           plugin_notable: yes
+          plugin_notable_from: all
+          plugin_notable_types: commit,pull_request,issue
           plugin_notable_indepth: yes
           plugin_notable_repositories: yes
-          plugin_contributors: yes
-          plugin_contributors_contributions: yes
